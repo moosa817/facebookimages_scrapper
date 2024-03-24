@@ -1,2 +1,8 @@
 env/
 data/
+*.exe
+.env
+.*
+__pycache__
+data2
+d*
